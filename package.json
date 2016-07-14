@@ -1,6 +1,6 @@
 {
   "name": "postcss-at-warn",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "@warn for PostCSS.",
   "main": "dist/index.js",
   "files": [
