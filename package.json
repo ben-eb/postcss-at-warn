@@ -46,7 +46,7 @@
   "repository": "ben-eb/postcss-at-warn",
   "dependencies": {
     "postcss": "^5.0.4",
-    "postcss-reporter": "^1.4.1"
+    "postcss-reporter": "^2.0.0"
   },
   "ava": {
     "require": "babel-register"
